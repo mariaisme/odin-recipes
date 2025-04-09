@@ -1,0 +1,21 @@
+body {
+    background: #fff;
+    font-family: sans-serif;
+  }
+
+.card, .menu{
+    box-sizing: border-box;
+    margin:16px;
+    padding: 50px;
+    background: #ffeab0;
+    width: 1200px;
+}
+.left{
+    width: 350px;
+    display:inline-block;
+    vertical-align: top;
+}
+.right{
+    width: 650px;
+    display:inline-block;
+}
