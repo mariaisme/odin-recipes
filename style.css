@@ -19,3 +19,16 @@ body {
     width: 650px;
     display:inline-block;
 }
+#indexlist {
+    list-style-type: none;
+    margin: 24px;
+}
+#indexlist li{
+    display: inline-block;
+    background-color: #f5d06a;
+    margin: 8px;
+    padding: 16px;
+    width: 200px;
+    height: 110px;
+    text-align: center;
+}
